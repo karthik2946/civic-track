@@ -1,6 +1,6 @@
-# Civic Resolve
+# Civic Track
 
-Civic Resolve is a web-based civic issue reporting platform that connects citizens with local authorities.
+Civic Track is a web-based civic issue reporting platform that connects citizens with local authorities.
 
 ## Features
 - User Authentication
@@ -14,4 +14,4 @@ Civic Resolve is a web-based civic issue reporting platform that connects citize
 - Tailwind CSS
 - Supabase
 
-Developed by Karthi D
+Developed by Karthikeyan.G
